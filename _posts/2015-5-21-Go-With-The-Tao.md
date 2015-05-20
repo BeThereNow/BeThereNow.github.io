@@ -22,5 +22,3 @@ In Buddhism the past and the future is seen as a hallucination of the brain, itâ
 ![an image alt text]({{ site.baseurl }}/images/BeHereNow.png "BeHereNow")
 
 From 'Be Here Now' by Ram Dass
-
-Living in the present moment is the key to happiness.
