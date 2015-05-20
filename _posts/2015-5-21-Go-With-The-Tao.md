@@ -6,8 +6,11 @@ title: Go With The Tao
 There is a Taoist story that goes something like this:
 
 >Once upon a time there was a Chinese farmer whose horse ran away. All the neighbors came around to commemorate that evening, “So sorry that your horse has run away, that’s too bad.” and he said, “Maybe.”
+
 >The next day the horse came back, bringing seven wild horses with it. Everyone came around in the evening and said, “Oh isn’t that lucky, what a great turn of events, you’ve now got eight horses.” and he said, “Maybe.”
+
 >The next day his son tried to break one of the horses and ride it, but was thrown and ended up breaking his leg. They all said, “Oh dear that’s too bad.” and he said, “Maybe.”
+
 >The following day the conscription officers came around to recruit, or to force people into the army but they rejected his son because he had a broken leg. All the people came around and said, “That’s great.” and he said, “Maybe.”
 
 The farmer is aware of what in eastern spirituality is called ‚Tao’, the flow of events, the ways things are, the way of the universe. Going with the Tao is to just accept things and events as they are. It sounds easier than it is and requires a special mindset which one has to achieve.
@@ -16,7 +19,8 @@ There is no point in not-going with the Tao, because you can’t change what has
 
 In Buddhism the past and the future is seen as a hallucination of the brain, it’s only in our mind and does not exist anymore. The past is unchangeable and the future is uncertain. There is no purpose in going somewhere if when you get there, all you do is think about doing something else in the future. It is therefore of the greatest importance to live in the present moment, the only reality. If you can't fully live in the presence, you are just living a fantasy.
 
-                ![an image alt text]({{ site.baseurl }}/images/BeHereNow.png "BeHereNow")
-                              From 'Be Here Now' by Ram Dass
+![an image alt text]({{ site.baseurl }}/images/BeHereNow.png "BeHereNow")
+
+From 'Be Here Now' by Ram Dass
 
 Living in the present moment is the key to happiness.
